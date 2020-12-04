@@ -1,0 +1,121 @@
+.TitlePage{
+    margin-top: auto;
+    box-sizing: border-box;
+    width: 100%;
+    
+    font-size: 40px;
+    color: black;
+    border-bottom: blanchedalmond 2px solid;
+    
+    text-align: Center;
+    font-weight: bold;
+    font-family: 'Changa';
+    float: center;
+}
+.title_div{
+    width: 50%;
+    margin: auto;
+}
+
+.row1_whyus{
+    width: 100%;
+    background-image: url("../image/k1g.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 400px;
+    background-attachment: fixed;
+    margin-bottom: 10px;
+}
+.row2_whyus{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.row2_whyus_col1
+{
+ width: 33%;
+ float: left;
+ text-align: center;
+ border: black 1px solid;
+ border-radius: 20px;
+ background-color: seashell;
+ margin-right: 5px;
+}
+.row2_whyus_col1 h5{
+    font-family: 'Changa';
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.row2_whyus_col1 p{
+    font-family: 'Changa';
+    font-weight: 400;
+    padding-bottom: 20px;
+
+}
+
+.row2_whyus_col2
+{
+ width: 32%;
+ float: left;
+ text-align: center;
+ border: black 1px solid;
+ border-radius: 20px;
+ background-color: seashell;
+ margin-right: 5px;
+}
+.row2_whyus_col2 h5{
+    font-family: 'Changa';
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.row2_whyus_col2 p{
+    font-family: 'Changa';
+    font-weight: 400;
+    padding-bottom: 20px;
+
+}
+.row2_whyus_col3
+{
+    width: 33%;
+    float: left;
+    text-align: center;
+    border: black 1px solid;
+    border-radius: 20px;
+    background-color: seashell;
+}
+.row2_whyus_col3 h5{
+    font-family: 'Changa';
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.row2_whyus_col3 p{
+    font-family: 'Changa';
+    font-weight: 400;
+    padding-bottom: 20px;
+
+}
+.icons{
+    margin-top: 3px;
+}
+
+
+
+.row3_whyus{
+    width: 100%;
+    background-image: url("../image/k1g.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 400px;
+    background-attachment: fixed;
+    margin-bottom: 40px;
+    margin-top: 260px;
+
+}

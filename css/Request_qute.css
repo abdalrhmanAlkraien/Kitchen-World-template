@@ -1,0 +1,115 @@
+.header_section_request{
+    border-bottom: black 1px solid;
+}
+
+.title{
+    font-family: 'changa';
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+.prag_title{
+    text-align: center;
+    font-family: 'changa';
+    font-weight: 500;
+    font-size: 30px;
+
+}
+
+
+
+/*********************************/
+/*Form*/
+.myform{
+    width: 80%;
+    border: black 1px solid;
+    background-color: seashell;
+    box-shadow: 5px 5px 5px 5px #9619198a;
+    
+    
+}
+.Name{
+    font-family: 'changa';
+    font-weight: 500;
+    font-size: 25px;
+    
+}
+.myform input[type="text"]{
+margin-top: 10px;
+width: 30%;
+padding: 10px;
+margin-right: 10px;
+border-radius: 20px;
+margin-bottom: 5px;
+}
+.span_name{
+    margin-left: 11px;
+    margin-top: 5px;
+    color: cadetblue;
+}
+.span_name2{
+    margin-left: 332px;
+    color: cadetblue;
+}
+.myform input[type="text"]:focus{
+    border: 2px solid violet;
+    border-radius: 20px;
+
+}
+.div_name{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.div_phone{
+    margin-bottom: 15px;
+}
+
+
+.div_email{
+    margin-bottom: 15px;
+}
+.myform input[type="number"]{
+    margin-top: 10px;
+    width: 30%;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    }
+
+.myform input[type="number"]:focus{
+    border: 2px solid violet;
+    border-radius: 20px;
+
+}
+
+.preferred_contact{
+    margin-bottom: 25px;
+
+}
+.radio_here{
+    margin-top: 15px;
+}
+.Radio{
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: "changa";
+    font-weight: 600;
+}
+.area{
+    margin-bottom: 15px;
+
+}
+.area_text{
+    width: 50%;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.button{
+   
+    text-align: center;
+    margin-bottom: 10px;
+    
+}

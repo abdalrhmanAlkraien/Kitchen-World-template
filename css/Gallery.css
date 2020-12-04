@@ -1,0 +1,172 @@
+.TitlePage{
+    margin-top: auto;
+    box-sizing: border-box;
+    width: 100%;
+    
+    font-size: 40px;
+    color: black;
+    border-bottom: blanchedalmond 2px solid;
+    
+    text-align: Center;
+    font-weight: bold;
+    font-family: 'Changa';
+    float: center;
+}
+.title_div{
+    width: 50%;
+    margin: auto;
+}
+/********************************************************/
+/* Section one Trinding_Kitchen */
+.Trinding_Kitchen{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+   
+    
+}
+
+.Trinding_Kitchen h3{
+    font-family: 'changa';
+    font-weight: 200;
+    
+}
+.Section_one{
+    background-attachment: fixed;
+}
+.BoxGallery1{
+    width: 100%;
+    background-image: url("../image/k1g.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 400px;
+    background-attachment: fixed;
+}
+.BoxGallery2{
+    margin-top: 20px;
+    width: 100%;
+    background-image: url("../image/k2g.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 400px;
+    background-attachment: fixed;
+}
+.BoxGallery3{
+    margin-top: 20px;
+    width: 100%;
+    background-image: url("../image/k3g.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 400px;
+    background-attachment: fixed;
+}
+.Decriptions{
+    width: 50%;
+    margin: auto;
+    background-color: #f5f5f594;
+    border-radius: 20px;
+    padding-left: 20px;
+    float: right;
+    position: unset;
+    margin-top: -300px;
+    margin-right: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.Decriptions h4{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Decriptions p{
+    
+    color: black;
+    font-weight: 500;
+}
+/*********************************************/
+/* Our Products */
+.Our_Products{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    
+    
+}
+.Our_Products h3{
+    font-family: 'changa';
+    font-weight: 200;
+    
+}
+.BoxGallery4{
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 70%;
+
+    background-image: url("../image/k1.jpeg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 300px;
+    
+    margin-right: 0px;
+}
+.Decriptions_Gallry2{
+    width: 29%;
+    height: 100%;
+    padding-bottom: 100px;
+    border-radius: 20px;
+    float: right;
+    margin-top: -300px;
+    text-align: center;
+    padding: 0 3px 85px 5px;
+    background-color: whitesmoke;
+}
+.Decriptions_Gallry2 h4{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Decriptions_Gallry2 p{
+    
+    color: black;
+    font-weight: 500;
+}
+.BoxGallery5{
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 70%;
+
+    background-image: url("../image/k3.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 300px;
+    
+    margin-right: 0px;
+}
+.BoxGallery6{
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 70%;
+
+    background-image: url("../image/k6.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding-top: 300px;
+    
+    margin-right: 0px;
+}
+
